@@ -1,0 +1,16 @@
+accident_datetime,region,road_name,vehicle_type,severity,weather
+2025-01-03 08:15:00,Central,Main Road,Motorcycle,Moderate,Clear
+2025-01-05 18:40:00,North,Highway 1,Car,Minor,Rain
+2025-01-12 22:10:00,Central,Market Street,Bus,Severe,Clear
+2025-02-02 09:20:00,South,Station Road,Motorcycle,Minor,Cloudy
+2025-02-14 14:05:00,East,Ring Road,Truck,Moderate,Fog
+2025-02-20 19:30:00,North,Highway 1,Car,Fatal,Rain
+2025-03-01 06:50:00,Central,Main Road,Bicycle,Minor,Clear
+2025-03-09 16:25:00,West,Airport Road,Car,Moderate,Clear
+2025-03-18 23:15:00,South,Station Road,Motorcycle,Severe,Fog
+2025-04-04 11:40:00,East,Ring Road,Bus,Minor,Cloudy
+2025-04-16 17:55:00,Central,Market Street,Car,Moderate,Rain
+2025-04-21 02:30:00,West,Airport Road,Truck,Fatal,Clear
+2025-05-08 08:05:00,North,Highway 1,Motorcycle,Severe,Rain
+2025-05-19 13:45:00,South,Station Road,Car,Minor,Clear
+2025-05-27 20:10:00,Central,Main Road,Pedestrian,Moderate,Cloudy
